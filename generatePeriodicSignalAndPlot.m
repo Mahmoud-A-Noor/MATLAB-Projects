@@ -9,5 +9,6 @@ x = x';
 stem(n,x)
 xlabel('n')
 ylabel('x(n)')
+
 end
 
